@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    color:#f7e4b0;
+} *
+h1 {
+    color:#d1aa3f;
+}
+#top-banner-logo{
+    height: 50px;
+    filter:brightness(0) invert(100%);
+}
+
+.left_icons{
+    height: 40px;
+    border-radius: 5px;
+}
+#linkedin-logo, #github-logo{
+    filter: invert(100%);
+}
+
+#img-placeholder{
+    height: 300px;
+}
